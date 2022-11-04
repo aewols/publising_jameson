@@ -10,10 +10,10 @@
 ### PC 화면
 <img src="responsive_pbg_01.png" height="900">
 
-### Tablet 화면
+### Tablet 화면 (768~1199범위의 해상도)
 <img src="responsive_tbg_01.png" height="900">
 
-### Mobile 화면
+### Mobile 화면 (767이하~범위의 해상도)
 <img src="responsive_mbg_01.png" height="900">
 
 <br>
@@ -32,7 +32,10 @@
 ### 반응형 메인 페이지 제작 - HTML, CSS, jQuery를 이용한 UI 구현
 
 * 레이아웃은 HTML5 시멘틱 태그로 구성
-* jQuery를 활용한 각 페이지 콘텐츠에 맞춘 스크롤 효과 구현
+* 전체 화면 fullpage로 구성
+* 반응형 웹을 고려한 가변 그리드, 가변 마진, 가변 패딩, 가변 이미지, 가변 폰트 사용 
+* jQuery를 활용한 탑 네비게이션 메뉴 오버 효과 구현
+* jQuery를 활용한 썸네일 클릭하는 갤러리 구현
 * 이미지 또는 배너는 마우스 오버시 효과를 트렌지션 효과를 사용하여 구현
 * 접근성과 편리성을 위한 웹 표준 준수
 * 주요 브라우저에서 레이아웃이 호환 가능(크로스브라우징)
